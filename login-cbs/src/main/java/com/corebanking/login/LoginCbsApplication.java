@@ -8,5 +8,6 @@ public class LoginCbsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LoginCbsApplication.class, args);
+		System.out.println("tes");
 	}
 }
