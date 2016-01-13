@@ -1,0 +1,27 @@
+* pelanggan 
+kode 
+nama 
+alamat 
+telp 
+
+* supplier 
+kode 
+nama 
+alamat 
+telp 
+
+* satuan 
+kode 
+nama 
+
+* produk 
+kode 
+nama 
+harga 
+stock 
+min_stock 
+
+*transaksi 
+kode 
+tanggal 
+jumlah_item 
